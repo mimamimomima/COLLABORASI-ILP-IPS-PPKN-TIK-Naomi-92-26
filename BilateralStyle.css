@@ -1,18 +1,26 @@
 @font-face {
     font-family: 'Starborn';
     src: url('./Fonts/Starborn.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: 'Cutesy';
     src: url('./Fonts/Kawaii-Stitch.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: 'Hearts';
     src: url('./Fonts/rainyhearts.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 @font-face {
     font-family: 'Thicc Pixel';
     src: url('./Fonts/04B_30__.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 * {
     margin: 0;
